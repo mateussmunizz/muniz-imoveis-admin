@@ -1,8 +1,8 @@
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
-import ImovelTable from "../features/Imoveis/ImovelTable";
-import AddImovel from "../features/Imoveis/AddImovel";
-import ImovelTableOperations from "../features/Imoveis/ImovelTableOperations";
+import ImovelTable from "../features/imoveis/ImovelTable";
+import AddImovel from "../features/imoveis/AddImovel";
+import ImovelTableOperations from "../features/imoveis/ImovelTableOperations";
 
 function Imoveis() {
   return (
