@@ -8,7 +8,7 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat&logo=supabase&logoColor=3ECF8E)
 
-🔗 **[Acesse a demonstração ao vivo aqui](https://muniz-imoveis-admin.vercel.app/dashboard)**
+🔗 **[Acesse a demonstração ao vivo aqui](https://muniz-imoveis-admin-git-main-mateussmunizzs-projects.vercel.app/login)**
 
 > 💡 **Acesso para Avaliação:**
 > Para testar as funcionalidades protegidas do painel sem precisar se cadastrar, utilize as credenciais de demonstração abaixo:
